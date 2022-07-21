@@ -1,17 +1,19 @@
 {
   "name": "react-native-rawbt-api",
   "version": "0.0.1",
-  "description": "",
+  "description": "Printing on a thermal printer is simple",
   "main": "rawbtapi.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "android",
+    "rawbt"
   ],
   "dependencies": {
     "react-native": "0.68.2"
   },
-  "author": "",
-  "license": ""
+  "author": "402d",
+  "license": "MIT"
 }
