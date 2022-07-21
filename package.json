@@ -11,6 +11,10 @@
     "android",
     "rawbt"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/402d/react-native-rawbt-api.git"
+  },
   "dependencies": {
     "react-native": "0.68.2"
   },
